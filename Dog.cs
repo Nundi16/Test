@@ -7,7 +7,7 @@ namespace Test
         public string Name { get; set; }
         public string Genre { get; set; }
         public void Vau(){
-            Console.WriteLine("Vau-Vau");
+            Console.WriteLine("{0} say: Vau-Vau");
         }
     }
 
