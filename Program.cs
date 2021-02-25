@@ -9,6 +9,7 @@ namespace Test
             var dog = new Dog();
             dog.Name = "Test Dog";
             Console.WriteLine("Hello {0}",dog.Name);
+            dog.Vau();
         }
     }
 }
